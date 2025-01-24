@@ -1,4 +1,4 @@
-## AWS Amplify + Next.js starter app
+## AWS Amplify + Next.js starter app test
 
 This is a starter application for building fullstack apps with AWS Amplify. 
 
